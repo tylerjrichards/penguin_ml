@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import pickle
 
-st.title('Penguin Classifier')
+st.title('Penguin Classifier: A Machine Learning App')
 st.write("This app uses 6 inputs to predict the species of penguin using "
          "a model built on the Palmer's Penguin's dataset. Use the form below"
          " to get started!")
