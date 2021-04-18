@@ -1,1 +1,1 @@
-streamlit run penguins_streamlit.py
+web: sh setup.sh && streamlit run penguins_streamlit.py
